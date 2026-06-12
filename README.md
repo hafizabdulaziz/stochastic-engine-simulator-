@@ -1,18 +1,15 @@
-🎮 The Perfect Guess Game
 
-A simple and interactive *Number Guessing Game* built with Python. 
+# 🎮 LogicQuest: The Perfect Guess Game
 
-## 🚀 How it Works:
-1. The computer generates a random number between 1 and 100.
-2. The player tries to guess the number.
-3. The program gives hints like "Higher number please" or "Lower number please".
-4. Once guessed correctly, it displays the total number of attempts.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Game](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-## 🛠️ Tech Stack:
-* *Language:* Python 🐍
-* *Module:* random
+An interactive Number Guessing Game built with Python. It challenges users to find a random number between 1-100 with a counter for attempts, focusing on algorithmic thinking and user interaction.
 
-## 📂 How to Run:
-1. Clone this repository.
-2. Run main.py in your terminal or VS Code.
-3. Enjoy guessing!
+## 🚀 How to Play
+1. Run `python main.py`.
+2. Enter your guess.
+3. The system will guide you (Higher/Lower) until you find the perfect match.
+
+---
+<p align="center">Made with ❤️ by <a href="https://github.com/hafizabdulaziz">Abdul Aziz</a></p>
