@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Game](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
-    2
+
+    
     3 A high-performance simulation engine for modeling probabilistic systems and decision-making feedback loops.
     4
     5 ## Features
